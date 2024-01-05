@@ -160,3 +160,7 @@ body {
 .edit-mode .task__label {
   display: none;
 }
+
+.add-item__heading_hidden {
+  display: none;
+}
